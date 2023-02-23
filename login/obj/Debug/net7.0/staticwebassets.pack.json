@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\web api\\login\\login\\wwwroot\\home.html",
+      "PackagePath": "staticwebassets\\home.html"
+    },
+    {
+      "Id": "M:\\web api\\login\\login\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "M:\\web api\\login\\login\\wwwroot\\users.txt",
+      "PackagePath": "staticwebassets\\users.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.login.props",
+      "PackagePath": "build\\login.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.login.props",
+      "PackagePath": "buildMultiTargeting\\login.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.login.props",
+      "PackagePath": "buildTransitive\\login.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.login.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "uy25+96kK9Fwn5ij+DUd9k3Kk/yU33NbRmKbk8PY0Js=",
+  "Source": "login",
+  "BasePath": "_content/login",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "login\\wwwroot",
+      "Source": "login",
+      "ContentRoot": "M:\\web api\\login\\login\\wwwroot\\",
+      "BasePath": "_content/login",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "M:\\web api\\login\\login\\wwwroot\\home.html",
+      "SourceId": "login",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\web api\\login\\login\\wwwroot\\",
+      "BasePath": "_content/login",
+      "RelativePath": "home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    },
+    {
+      "Identity": "M:\\web api\\login\\login\\wwwroot\\index.js",
+      "SourceId": "login",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\web api\\login\\login\\wwwroot\\",
+      "BasePath": "_content/login",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    },
+    {
+      "Identity": "M:\\web api\\login\\login\\wwwroot\\users.txt",
+      "SourceId": "login",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\web api\\login\\login\\wwwroot\\",
+      "BasePath": "_content/login",
+      "RelativePath": "users.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\users.txt"
+    }
+  ]
+}

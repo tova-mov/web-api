@@ -1,0 +1,54 @@
+M:\login\login\bin\Debug\net7.0\appsettings.Development.json
+M:\login\login\bin\Debug\net7.0\appsettings.json
+M:\login\login\bin\Debug\net7.0\login.staticwebassets.runtime.json
+M:\login\login\bin\Debug\net7.0\login.exe
+M:\login\login\bin\Debug\net7.0\login.deps.json
+M:\login\login\bin\Debug\net7.0\login.runtimeconfig.json
+M:\login\login\bin\Debug\net7.0\login.dll
+M:\login\login\bin\Debug\net7.0\login.pdb
+M:\login\login\obj\Debug\net7.0\login.csproj.AssemblyReference.cache
+M:\login\login\obj\Debug\net7.0\login.GeneratedMSBuildEditorConfig.editorconfig
+M:\login\login\obj\Debug\net7.0\login.AssemblyInfoInputs.cache
+M:\login\login\obj\Debug\net7.0\login.AssemblyInfo.cs
+M:\login\login\obj\Debug\net7.0\login.csproj.CoreCompileInputs.cache
+M:\login\login\obj\Debug\net7.0\login.MvcApplicationPartsAssemblyInfo.cache
+M:\login\login\obj\Debug\net7.0\staticwebassets\msbuild.login.Microsoft.AspNetCore.StaticWebAssets.props
+M:\login\login\obj\Debug\net7.0\staticwebassets\msbuild.build.login.props
+M:\login\login\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.login.props
+M:\login\login\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.login.props
+M:\login\login\obj\Debug\net7.0\staticwebassets.pack.json
+M:\login\login\obj\Debug\net7.0\staticwebassets.build.json
+M:\login\login\obj\Debug\net7.0\staticwebassets.development.json
+M:\login\login\obj\Debug\net7.0\scopedcss\bundle\login.styles.css
+M:\login\login\obj\Debug\net7.0\login.dll
+M:\login\login\obj\Debug\net7.0\refint\login.dll
+M:\login\login\obj\Debug\net7.0\login.pdb
+M:\login\login\obj\Debug\net7.0\login.genruntimeconfig.cache
+M:\login\login\obj\Debug\net7.0\ref\login.dll
+M:\web api\login\login\bin\Debug\net7.0\appsettings.Development.json
+M:\web api\login\login\bin\Debug\net7.0\appsettings.json
+M:\web api\login\login\bin\Debug\net7.0\login.staticwebassets.runtime.json
+M:\web api\login\login\bin\Debug\net7.0\login.exe
+M:\web api\login\login\bin\Debug\net7.0\login.deps.json
+M:\web api\login\login\bin\Debug\net7.0\login.runtimeconfig.json
+M:\web api\login\login\bin\Debug\net7.0\login.dll
+M:\web api\login\login\bin\Debug\net7.0\login.pdb
+M:\web api\login\login\obj\Debug\net7.0\login.csproj.AssemblyReference.cache
+M:\web api\login\login\obj\Debug\net7.0\login.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\login\login\obj\Debug\net7.0\login.AssemblyInfoInputs.cache
+M:\web api\login\login\obj\Debug\net7.0\login.AssemblyInfo.cs
+M:\web api\login\login\obj\Debug\net7.0\login.csproj.CoreCompileInputs.cache
+M:\web api\login\login\obj\Debug\net7.0\login.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\login\login\obj\Debug\net7.0\staticwebassets\msbuild.login.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web api\login\login\obj\Debug\net7.0\staticwebassets\msbuild.build.login.props
+M:\web api\login\login\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.login.props
+M:\web api\login\login\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.login.props
+M:\web api\login\login\obj\Debug\net7.0\staticwebassets.pack.json
+M:\web api\login\login\obj\Debug\net7.0\staticwebassets.build.json
+M:\web api\login\login\obj\Debug\net7.0\staticwebassets.development.json
+M:\web api\login\login\obj\Debug\net7.0\scopedcss\bundle\login.styles.css
+M:\web api\login\login\obj\Debug\net7.0\login.dll
+M:\web api\login\login\obj\Debug\net7.0\refint\login.dll
+M:\web api\login\login\obj\Debug\net7.0\login.pdb
+M:\web api\login\login\obj\Debug\net7.0\login.genruntimeconfig.cache
+M:\web api\login\login\obj\Debug\net7.0\ref\login.dll

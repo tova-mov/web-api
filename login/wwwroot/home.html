@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="index.js"></script>
+</head>
+<body>
+    <div>
+        <br /><br />
+        <input id="userNameLogIn" type="text" placeholder="user name" /><br /><br />
+        <input id="userPasswordLogIn" type="password" placeholder="user password" /><br /><br />
+        <button id="logIn" onclick="LogIn()">log in</button><br /><br /><br />
+        <a onclick="document.getElementById('register').style.setProperty('visibility', 'visible')">new user</a><br /><br /><br />
+    </div>
+
+    <div id="register" style="visibility:hidden; display:inline">
+       
+        <input id="userNameReg" type="text" placeholder="user name" /><br /><br />
+        <input id="userPasswordReg" type="password" placeholder="user password" /><br /><br />
+        <input id="firstName" type="text" placeholder="first name" /><br /><br />
+        <input id="lastName" type="text" placeholder="last name" /><br /><br />
+        <button id="logIn" onclick="Register()">register</button>
+    </div>
+
+</body>
+</html>
